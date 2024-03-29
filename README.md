@@ -1,6 +1,6 @@
 # pokedex_app
 
-A new Flutter project.
+Welcome to the Pokedex App, This app is designed to provide you with everything details of a Pokemon .
 
 ## Getting Started
 
