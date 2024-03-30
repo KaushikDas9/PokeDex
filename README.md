@@ -5,7 +5,7 @@ Welcome to the Pokedex App, This app is designed to provide you with everything 
 
 
 ## Screenshots
-Some Screenshots is help you that how app looks like 
+Some Screenshots is help you to understand that how app looks like 
 
 
 <p float="left" align="center" >
